@@ -5,9 +5,10 @@ import Pizza from './components/Pizza';
 function App() {
   return (
     <div className="App">
-    <header className="App-header"></header>
+    <header className="App-header">
     <Pizza/>
-    </div>
+    </header>
+     </div>
   );
 }
 
